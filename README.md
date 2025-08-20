@@ -19,8 +19,8 @@ Model
 - Visualization- matplotlib and seaborn ( you can use plotly express for better interactivity) 
 
 ## Executing program 
-Phase 1 and 2(Read and explore dataset
-Read Spotify datasets to explore structure. Datasets used include aritists data, genres dataset - (see music.stap2.ipynb file)
+Phase 1 and 2 - Read and explore dataset
+Read Spotify datasets to explore structure. Datasets used include aritists data, genres dataset - (see music.step2.ipynb file)
 
 Phase 3
 Clustering Phase : Here, i used K-Means clustering techniques to group audio based on their features. The features in the datasets include 'acousticness', 'danceability', 'energy', 'instrumentalness', 'liveness', and 'valence
