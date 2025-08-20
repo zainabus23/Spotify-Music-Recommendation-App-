@@ -1,4 +1,4 @@
-### Project Title - Spotify Music Recommendation based on Clustered Audio Features 
+## Project Title - Spotify Music Recommendation based on Clustered Audio Features 
 
 ## Description 
 The aim of this project is to design a Streamlit web interface to recommend similar song to a spotify track based on identified clustered audio features. 
